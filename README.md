@@ -54,10 +54,6 @@ El proyecto combina **desarrollo móvil, inteligencia artificial, desarrollo web
 
 `Kotlin` · `Python` · `HTML` · `CSS` · `SQL` · `Android` · `Teachable Machine` · `GitHub`
 
-### 🔗 Ver proyecto
-
-**[♻️ Repositorio de RECICLA+](https://github.com/g4mg-dumb/Recicla-mas)**
-
 ---
 
 # 🎓 Formación y certificaciones
